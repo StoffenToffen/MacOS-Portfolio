@@ -17,7 +17,10 @@ const Contact = () => {
 					className="w-20 rounded-full"
 				/>
 				<h3>Let's Connect</h3>
-				<p>Curious about my projects? Want to commission? Or just have a chat? I'm in!</p>
+				<p>
+					Curious about my projects? Want to commission? Or just have a chat?
+					I'm in!
+				</p>
 				<p>steffentveit@outlook.com</p>
 
 				<ul>
