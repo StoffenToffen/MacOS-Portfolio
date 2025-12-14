@@ -18,7 +18,9 @@ const ImageFile = () => {
 			</div>
 
 			<div className="p-5">
-				{imageUrl && <img src={imageUrl} alt={name} className="w-full rounded" />}
+				{imageUrl && (
+					<img src={imageUrl} alt={name} className="w-full rounded" />
+				)}
 			</div>
 		</>
 	);
